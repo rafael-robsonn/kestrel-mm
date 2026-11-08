@@ -260,4 +260,4 @@ Binários nativos exigem a mesma ISA da máquina de build.
 
 ## Licença
 
-Licenciado sob [Apache-2.0](LICENSE-APACHE) ou [MIT](LICENSE-MIT), à escolha.
+Licenciado sob [MIT](LICENSE-MIT), à escolha.
