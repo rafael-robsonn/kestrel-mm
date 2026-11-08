@@ -260,4 +260,4 @@ Binários nativos exigem a mesma ISA da máquina de build.
 
 ## Licença
 
-Licenciado sob [MIT](LICENSE-MIT), à escolha.
+Licenciado sob [MIT](LICENSE-MIT).
